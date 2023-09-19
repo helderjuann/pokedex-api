@@ -1,2 +1,7 @@
 # pokedex-api
-Um site simples feito com fetch para mostrar todos os pokemons existentes na pokedex
+
+Página praticamente completa, faltam pequenos ajustes.
+
+Obs. Melhorar a lógica do Javascript e fazer o sitema de pesquisa funcionar
+
+Deploy -> https://helderjuann.github.io/pokedex-api/
